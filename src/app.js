@@ -5,7 +5,7 @@ import './database'
 import cors from 'cors'
 
 const corsOptions = {
-  origin: 'code-burguer-interface-gustahideki.vercel.app',
+  origin: 'http://code-burguer-interface-gustahideki.vercel.app',
   Credentials: true,
 }
 
